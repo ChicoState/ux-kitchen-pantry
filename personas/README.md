@@ -1,4 +1,4 @@
-## Persona: Anthony
+# Persona: Anthony
 <img src="https://as2.ftcdn.net/v2/jpg/02/92/85/09/1000_F_292850976_UJl2xAUaRg5P6u57g1xWuoMkcb8J88GS.jpg" width="400" height="250">
 Anthony
 
@@ -16,11 +16,11 @@ Save money by cooking more
 Learn about more cultures
 
 
-# Scenario: Anthony’s Empty Fridge
+## Scenario: Anthony’s Empty Fridge
 After a day of teaching the youth, Anthony would like to start his new goal of cooking more. He is looking into his fridge and sees some random ingredients and is stumped on where to start. He grabs a pan and just puts together random ingredients to make something before his food expires. He does not love the meal he made, but it is a start.
 
 
-## Persona: Itzel
+# Persona: Itzel
 <img src="https://as2.ftcdn.net/v2/jpg/04/62/77/03/1000_F_462770368_Dk3zo4yUjkR1MHeZn2Yl153sDpMa4UoR.jpg" width="400" height="250">
 Itzel
 
@@ -37,7 +37,7 @@ Goals:
   - Learn quick meals
   - Expand her cooking knowledge
 
-# Scenario: Itzel’s quick meal
+## Scenario: Itzel’s quick meal
 Itzel has a huge test tomorrow but has no money to go out to eat. She wants to use what is in her kitchen but is bored with her usual meals. She has barely any time to think about what to make so she is rushed and makes a meal she does not want to eat. She is frustrated with her new diet once again.
 
 
