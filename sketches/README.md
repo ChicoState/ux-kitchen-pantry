@@ -1,3 +1,3 @@
 # Sketches
-![Sketches](https://github.com/ChicoState/ux-kitchen-pantry/raw/main/sketches/ux%20final.png | width=50%)
+![Sketches](https://github.com/ChicoState/ux-kitchen-pantry/raw/main/sketches/ux%20final.png)
 
