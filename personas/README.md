@@ -1,5 +1,5 @@
 # Personas
-![Anthony](https://as2.ftcdn.net/v2/jpg/02/92/85/09/1000_F_292850976_UJl2xAUaRg5P6u57g1xWuoMkcb8J88GS.jpg).
+![Anthony](https://as2.ftcdn.net/v2/jpg/02/92/85/09/1000_F_292850976_UJl2xAUaRg5P6u57g1xWuoMkcb8J88GS.jpg | width = 100).
 Anthony
 
 27 year old in Oakland, CA
