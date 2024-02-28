@@ -1,2 +1,2 @@
 # Sketches
-![Sketches](ux final.jpg){width=50%}
+![Sketches](ux_final.jpg){width=50%}
