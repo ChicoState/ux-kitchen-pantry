@@ -6,9 +6,9 @@
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
-* **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
-* **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
+* **[Lizet Gutierrez][Lizet Gutierrez](https://github.com/lizetg)** - !!!List of Person A's primary contributions!!!
+* **[Abraham Hernandez][Abraham Hernandez](https://github.com/AbramHernandez)** - !!!List of Person B's primary contributions!!!
+* **[Miguel Ocampo Paniagua][Miguel Ocampo Paniagua](https://github.com/Miguel9088)** - !!!List of Person C's primary contributions!!!
 
 # User-Centered Design Artifacts
  
