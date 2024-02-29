@@ -15,7 +15,7 @@
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](#)
+* [Prototype](https://www.youtube.com/watch?v=Z1lJIoeKL8o)**
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
