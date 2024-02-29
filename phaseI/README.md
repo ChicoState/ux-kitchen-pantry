@@ -15,12 +15,12 @@ During our research, we used multiple research methods such as downloading appli
 Downloading applications, Describe: 
 - While downloading similar applications we found that most of the applications were targeting, users who are on a diet, Fitness users, and users who are willing to learn how to cook simple meals. 
 
----Reading reviews of the application, Describe:---
+___Reading reviews of the application, Describe:___
 - Multiple users were complaining about how limited features were available until they paid for a subscription that allowed them to use the completed version of the application.
 - Users complain about how many bugs need to be fixed and how slow the application gets
 - Error in scanning barcodes 
 - Linking Store to certain applications
----Testing the application, Describe:---
+___Testing the application, Describe:___
 - The user interface works wonderfully, 
 - The application looks modern for today's standards
 - Certain applications have built-in shortcuts 
@@ -29,7 +29,7 @@ Downloading applications, Describe:
 - Gives you recommendations of certain foods and recipe
 - Certain application makes you answer a few questions to find what kind of food you like
 
----Software errors or bugs, Describe:---
+___Software errors or bugs, Describe:___
 - Certain applications will crash 
 - Certain applications will lag.
 - Exit the tutorial option
