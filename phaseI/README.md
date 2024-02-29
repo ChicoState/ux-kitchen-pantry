@@ -15,7 +15,7 @@ During our research, we used multiple research methods such as downloading appli
 
 
 ## Findings
-<u>___**Downloading applications, Describe:**___</u>
+___Downloading applications, Describe:___
 - While downloading similar applications we found that most of the applications were targeting, users who are on a diet, Fitness users, and users who are willing to learn how to cook simple meals. 
 
 ___Reading reviews of the application, Describe:___
