@@ -6,9 +6,9 @@
 
 ## UX Team Members
 
-* **Lizet Gutierrez [Lizet Gutierrez](https://github.com/lizetg)** - !!!List of Person A's primary contributions!!!
-* **Abraham Hernandez [Abraham Hernandez](https://github.com/AbramHernandez)** - !!!List of Person B's primary contributions!!!
-* **Miguel Ocampo Paniagua [Miguel Ocampo Paniagua](https://github.com/Miguel9088)** - !!!List of Person C's primary contributions!!!
+* **Lizet Gutierrez [Lizet Gutierrez](https://github.com/lizetg)** - Personas and scenarios, caveats, conclusion
+* **Abraham Hernandez [Abraham Hernandez](https://github.com/AbramHernandez)** - introductions, executive summary
+* **Miguel Ocampo Paniagua [Miguel Ocampo Paniagua](https://github.com/Miguel9088)** - Research methods, findings
 
 # User-Centered Design Artifacts
  
