@@ -2,7 +2,11 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve !!!
+Our project tackles the prevalent issue of deciding what to cook with the ingredients available at home, addressing the challenges faced by individuals with diverse lifestyles and hoping to minimize food waste.
+
+This initial phase concentrates on understanding users through personas, evaluating competitors like Supercook, and initiating design concepts. By delving into these aspects, we aim to lay the foundation for a user-centric meal planning application that revolutionizes kitchen interactions and addresses the identified challenges.
+
+Our project in Phase I addresses the universal challenge of deciding what to cook with the ingredients at home, catering to many different lifestyles. We aim to streamline the meal preparation experience by understanding users through personas, evaluating competitors like Supercook, and initiating design concepts. This phase sets the stage for a user-centric meal planning application that transforms kitchen interactions, providing an efficient solution for creating delicious meals with available ingredients.
 
 ## Methods
 
