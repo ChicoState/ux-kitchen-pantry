@@ -26,8 +26,11 @@
 * Persona Learnings:
 
   Mike Foodie: Identified a need for diverse and culturally rich recipes
+
   Marcos Ortega: Uncovered a demand for healthier cooking solutions for families
+
   Anthony: Recognized a gap for a user-friendly solution catering to individuals who dislike repetitive cooking and want to explore new cultures.
+
   Itzel: Discovered challenges in gluten-free cooking and a desire for quick, varied meals within a tight schedule.
 
 * Heuristic Evaluation Highlights:
