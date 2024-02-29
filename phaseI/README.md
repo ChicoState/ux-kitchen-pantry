@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The paywall is the biggest limitation in these apps. These types of apps will provide a very small amount of features, or no features, you can access without paying. You have to sign into each account separately to use the shopping feature and most times it crashes. Because of the paywall, we could not access many parts of the apps to learn more about the bugs or other possible issues. 
