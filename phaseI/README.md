@@ -15,6 +15,38 @@ During our research, we used multiple research methods such as downloading appli
 
 
 ## Findings
+<table>
+  <thead>
+    <tr>
+      <th rowspan="2">Metric</th>
+      <th colspan="2">Values Set 1</th>
+      <th colspan="2">Values Set 2</th>
+    </tr>
+    <tr>
+      <th>Category 1</th>
+      <th>Category 2</th>
+      <th>Category 1</th>
+      <th>Category 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Item 1</td>
+      <td>10</td>
+      <td>30</td>
+      <td>15</td>
+      <td>25</td>
+    </tr>
+    <tr>
+      <td>Item 2</td>
+      <td>20</td>
+      <td>25</td>
+      <td>10</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
+
 ___Downloading applications, Describe:___
 - While downloading similar applications we found that most of the applications were targeting, users who are on a diet, Fitness users, and users who are willing to learn how to cook simple meals. 
 
