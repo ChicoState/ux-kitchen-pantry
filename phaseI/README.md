@@ -196,6 +196,8 @@ During our competitive analysis, we discovered that most applications offer a pa
   </tbody>
 </table>
 
+After completing our research, we acquired various types of data, which include how our competitors are software or operating. We learn that some of the applications are plagued with numerous bugs, leading to instances of the application crashing and certain features malfunctioning. Besides that, we learned that our application should have a nice useable, and user-friendly interface. By doing so, our application will stand out from our competitors. The table above shows various types of problems and features that our competitors have to offer. 
+
 
 
 
