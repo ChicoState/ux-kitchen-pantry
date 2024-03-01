@@ -21,18 +21,28 @@ After selecting the five applications, as a group, we started to look into the r
 <table>
   <thead>
     <tr>
-      <th rowspan="1">___Products___</th>
-      <th colspan="1">Strengths</th>
-      <th colspan="1">Weaknesses</th>
-      <th rowspan="1">Quality Level (low - high)</th>
-      <th colspan="1">Cost</th>
-      <th colspan="1">Platform</th>
+      <th rowspan="1"> Products </th>
+      <th colspan="1"> Strengths </th>
+      <th colspan="1"> Weaknesses </th>
+      <th rowspan="1"> Quality Level (low - high) </th>
+      <th colspan="1"> Cost </th>
+      <th colspan="1"> Platform </th>
     </tr>
     <tr>
-      <th>Category 1</th>
-      <th>Category 2</th>
-      <th>Category 1</th>
-      <th>Category 2</th>
+      <th><p>Paprika Recipe Manager</p></th>
+      <td><li>Recipe organization
+          <li>Automated grocery list </li>
+          <li>Meal planning features </li></td>
+      <td><li>Learning curve for new users</li>
+          <li>Limited free version features</li></td>
+      <td><li>High</li></td>
+      <td><li>One-time cost (around $4.99)</li></td>
+      <td><li>Web</li>
+          <li>Android</li>
+          <li>iOS</li>
+          <li>MacOS</li>
+          <li>Windows</li>
+     <P> </P> </td>
     </tr>
   </thead>
   <tbody>
@@ -42,6 +52,7 @@ After selecting the five applications, as a group, we started to look into the r
       <td>30</td>
       <td>15</td>
       <td>25</td>
+      <th>Category 2</th>
     </tr>
     <tr>
       <td>Item 2</td>
@@ -49,6 +60,7 @@ After selecting the five applications, as a group, we started to look into the r
       <td>25</td>
       <td>10</td>
       <td>20</td>
+      <th>Category 2</th>
     </tr>
   </tbody>
 </table>
