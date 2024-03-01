@@ -18,6 +18,7 @@ After selecting the five applications, as a group, we started to look into the r
 
 
 ## Findings
+
 <div align="center">
 <h3> Kitchen Pantry Competitive Analysis </h3>
 </div>
@@ -132,29 +133,6 @@ After selecting the five applications, as a group, we started to look into the r
 
 
 
-___Downloading applications, Describe:___
-- While downloading similar applications we found that most of the applications were targeting, users who are on a diet, Fitness users, and users who are willing to learn how to cook simple meals. 
-
-___Reading reviews of the application, Describe:___
-- Multiple users were complaining about how limited features were available until they paid for a subscription that allowed them to use the completed version of the application.
-- Users complain about how many bugs need to be fixed and how slow the application gets
-- Error in scanning barcodes 
-- Linking Store to certain applications
-___Testing the application, Describe:___
-- The user interface works wonderfully, 
-- The application looks modern for today's standards
-- Certain applications have built-in shortcuts 
-- Certain applications didn’t allow you to realm freely until you finished the tutorial or paid a subscription.  
-- Makes it simple to shop for ingredient
-- Gives you recommendations of certain foods and recipe
-- Certain application makes you answer a few questions to find what kind of food you like
-
-___Software errors or bugs, Describe:___
-- Certain applications will crash 
-- Certain applications will lag.
-- Exit the tutorial option
-       -Certain applications won’t let you do anything without finishing the tutorial first 
-- Linking external shopping accounts will sometimes make the application crash or duplicate orders.
 
 <div align="center">
 <h3> Application Analysis </h3>
