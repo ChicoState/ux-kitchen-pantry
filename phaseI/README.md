@@ -10,8 +10,11 @@ Our project in Phase I addresses the universal challenge of deciding what to coo
 
 ## Methods
 
-During our research, we used multiple research methods such as downloading applications similar to ours, reading reviews of the application, testing the application, and trying to find any software errors or bugs. By doing this, we collected data that would help us improve our application and make our application stand out from the rest of them.
+During our research, we conducted multiple research methods, including downloading applications similar to ours, reading reviews left by the user from our competitor's application, testing their functionalities, and identifying any software errors or bugs. 
 
+As we conducted our competitive analysis, our team was divided to investigate both the Google Play Store and the App Store, as these were the two main application stores from which potential users would download. While performing this analysis, we documented strengths, weaknesses, quality levels, and costs. Then, we selected the top five competitors that we would be facing
+
+After selecting the five applications, as a group, we started to look into the reviews of each application to find existing problems and any potential bugs we might face. We commenced testing the application to generate ideas and identify any problems. By doing this, we collected data that would help us improve our application and make us stand out from the rest of the other competitors.
 
 
 ## Findings
