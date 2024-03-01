@@ -21,7 +21,7 @@ After selecting the five applications, as a group, we started to look into the r
 <div align="center">
 <h3> Kitchen Pantry Competitive Analysis </h3>
 </div>
-<table>
+<table border="1">
   <thead>
     <tr>
       <th rowspan="1"> Products </th>
@@ -154,7 +154,71 @@ ___Software errors or bugs, Describe:___
 - Certain applications will lag.
 - Exit the tutorial option
        -Certain applications won’t let you do anything without finishing the tutorial first 
-- Linking external shopping accounts will sometimes make the application crash or duplicate orders. 
+- Linking external shopping accounts will sometimes make the application crash or duplicate orders.
+
+<div align="center">
+<h3> Application Analysis </h3>
+</div>
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="1"> Describe </th>
+      <th colspan="1"> Observations </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Downloading Applications</th>
+      <td>
+        <ul>
+          <li>While downloading similar applications, we found that most of the applications were targeting users who are on a diet, fitness users, and users who are willing to learn how to cook simple meals.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th>Reading Reviews of the Application</th>
+      <td>
+        <ul>
+          <li>Multiple users were complaining about how limited features were available until they paid for a subscription that allowed them to use the completed version of the application.</li>
+          <li>Users complain about how many bugs need to be fixed and how slow the application gets.</li>
+          <li>Error in scanning barcodes.</li>
+          <li>Linking Store to certain applications.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th>Testing the Application</th>
+      <td>
+        <ul>
+          <li>The user interface works wonderfully.</li>
+          <li>The application looks modern for today's standards.</li>
+          <li>Certain applications have built-in shortcuts.</li>
+          <li>Certain applications didn’t allow you to roam freely until you finished the tutorial or paid a subscription.</li>
+          <li>Makes it simple to shop for ingredients.</li>
+          <li>Gives you recommendations for certain foods and recipes.</li>
+          <li>Certain applications make you answer a few questions to find what kind of food you like.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th>Software Errors or Bugs</th>
+      <td>
+        <ul>
+          <li>Certain applications will crash.</li>
+          <li>Certain applications will lag.</li>
+          <li>Exit the tutorial option:
+            <ul>
+              <li>Certain applications won’t let you do anything without finishing the tutorial first.</li>
+            </ul>
+          </li>
+          <li>Linking external shopping accounts will sometimes make the application crash or duplicate orders.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 
 ## Conclusions
