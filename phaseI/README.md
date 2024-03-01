@@ -21,7 +21,7 @@ After selecting the five applications, as a group, we started to look into the r
 <table>
   <thead>
     <tr>
-      <th rowspan="1">Products</th>
+      <th rowspan="1">___Products___</th>
       <th colspan="1">Strengths</th>
       <th colspan="1">Weaknesses</th>
       <th rowspan="1">Quality Level (low - high)</th>
