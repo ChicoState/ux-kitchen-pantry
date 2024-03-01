@@ -18,6 +18,9 @@ After selecting the five applications, as a group, we started to look into the r
 
 
 ## Findings
+<div align="center">
+<h1>Kitchen Pantry Competitive Analysis</h1>
+</div>
 <table>
   <thead>
     <tr>
