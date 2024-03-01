@@ -4,7 +4,7 @@
 
 Our project tackles the prevalent issue of deciding what to cook with the ingredients available at home, addressing the challenges faced by individuals with diverse lifestyles and hoping to minimize food waste.
 
-This initial phase concentrates on understanding users through personas, evaluating competitors like Supercook, and initiating design concepts. By delving into these aspects, we aim to lay the foundation for a user-centric meal planning application that revolutionizes kitchen interactions and addresses the identified challenges.
+  This initial phase concentrates on understanding users through personas, evaluating competitors like Supercook, and initiating design concepts. By delving into these aspects, we aim to lay the foundation for a user-centric meal planning application that revolutionizes kitchen interactions and addresses the identified challenges.
 
 Our project in Phase I addresses the universal challenge of deciding what to cook with the ingredients at home, catering to many different lifestyles. We aim to streamline the meal preparation experience by understanding users through personas, evaluating competitors like Supercook, and initiating design concepts. This phase sets the stage for a user-centric meal planning application that transforms kitchen interactions, providing an efficient solution for creating delicious meals with available ingredients.
 
@@ -131,7 +131,7 @@ After selecting the five applications, as a group, we started to look into the r
   </tbody>
 </table>
 
-
+During our competitive analysis, we discovered that most applications offer a paid version. This allows the users to have full access to the application, including premium features, but in most cases, the users are required to pay a one-time payment or a monthly subscription. This is because the majority of applications are either useless, non-functional, or limited to what the user can do. Furthermore, users have stated that the application has a huge amount of bugs and is unable to operate properly without opting for the full version. Besides this, some of our competitors have a great user interface that suggests meal ideas but also provides a user-friendly experience.
 
 
 <div align="center">
