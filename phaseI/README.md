@@ -204,7 +204,9 @@ After completing our research, we acquired various types of data, which include 
 ## Conclusions
 
 Users are seeking an affordable or free app that efficiently manages their pantry items and offers recipe suggestions. They desire avoiding frequent sign-outs that complicate while grocery shopping from various websites inside the app. A suggested improvement is to eliminate the option to place orders from stores in the app and just being able to create a list. Maintaining a familiar layout and users being able to navigate effortlessly would encourage them to want to use the app more. For example, keeping a bottom bar for easy navigation or incorporating a menu section at all times helps users understand the app's functionality without much thought. 
+
 Through heuristic evaluation, the UX team discovered that the user would like a simple app with not too many instructions or tutorials on how to use the app. They would like an app they can easily navigate through.The user would like the app to be free. Users also would like less app crashes and bugs with all the features. 
+
 This app should include features such as expiration dates, quantity of items in pantry, a grocery list, a way to skip the tutorial, meal suggestions based on pantry items, new recipes to explore and a simple design for the user to understand. 
 
 
