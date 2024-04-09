@@ -6,8 +6,7 @@
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
-
+During our research, we conducted cross-team communication, we allowed other teams to review our wireframes and documents of each character. Based on this research we were able to examine three types of scenarios from our listening character. This allows our wireframe design to be tested and identify any software errors or bugs.
 ## Findings
 
 !!! For each research method, detail each of the findings point-by-point to clarify new discoveries of users' needs !!!
