@@ -62,11 +62,11 @@ The project aims to streamline meal planning by solving the challenge of decidin
      * Itzel - Itzel understands how the app works, but as a first time user, she just did not have much time to set up all her pantry items.
        
 * Wireframes
-   * Homepage: what a user sees when first clicking on the app</ul>
-   * Shopping list: where a user can add items they need to buy</ul>
-   * Meal Plan: Where a user can plan out their meals of the week</ul>
-   * Recipes: where a user can find and save recipes</ul>
-      * Also shows what a recipe page might look like</ul></ul>
+   * Homepage: what a user sees when first clicking on the app
+   * Shopping list: where a user can add items they need to buy
+   * Meal Plan: Where a user can plan out their meals of the week
+   * Recipes: where a user can find and save recipes
+     * Also shows what a recipe page might look like
    * Pantry: items in a users pantry</ul>
 
 
