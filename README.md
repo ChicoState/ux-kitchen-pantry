@@ -55,7 +55,21 @@ The project aims to streamline meal planning by solving the challenge of decidin
 
 * Cognitive Walkthroughs
   * Putting yourself in a persona to test the application for usability
+  * Personas and their walkthroughs:
+     * Mike Foodie - Mike was browsing around trying to get anything to work, but left confused.
+     * Marcos Ortega - Marcos starts by finding a recipe he really likes, but struggles to find how to add the ingredients to his shopping list. He gets frustrated and just goes to the store.
+     * Anthony - Anthony had no issues finding what he needed.
+     * Itzel - Itzel understands how the app works, but as a first time user, she just did not have much time to set up all her pantry items.
+       
 * Wireframes
+ * Homepage: what a user sees when first clicking on the app
+ * Shopping list: where a user can add items they need to buy
+ * Meal Plan: Where a user can plan out their meals of the week
+ * Recipes: where a user can find and save recipes
+    * Also shows what a recipe page might look like
+ * Pantry: items in a users pantry
+
+
 * overall takeaway
 
 [Full phase II report](phaseII/)
