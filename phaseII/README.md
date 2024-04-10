@@ -33,9 +33,21 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     </tr>
     <tr>
       <td>
-        <h3>Cognitive Walkthrough of Ana Ramirez</h3>
-        Ana is a college student with a part-time job. She loves trying new recipes in her limited free time. She's looking for an app to help her discover quick and easy recipes that she can prepare with ingredients she already has at home.<br>
-        When Ana first opens the app, she's greeted with a homepage that showcases featured recipes. She scrolls through and clicks on a recipe that catches her eye. She views the ingredients and steps required to prepare the dish. Ana notices a button to add the recipe to her favorites and clicks on it. She then explores the app further and finds a section for meal planning. She selects the current week and adds the recipe she found earlier to tonight's dinner slot. Ana feels satisfied with the app's functionality and decides to try out the recipe later in the evening.
+        <h3>Cognitive Walkthrough of Itzel</h3>
+        Using the Itzel persona and scenario:
+<b>First step:</b>
+- Make a recipe given the ingredients she has at home. She doesn’t have much time to go
+out and buy ingredients so she has to work with what she has at home
+Second step:
+- She will need to add her ingredients into the pantry section
+Third step:
+- After adding her ingredients, recipes will pop up that utilize the ingredients she already
+has at home. Given her busy schedule, she does not have time to add many recipes to
+her meal plan. She looks through the recipes page to find a meal that is gluten free but
+also quick to make
+At this point, the user will know what to do next. Either the user will add ingredients to her
+shopping list for future meals and also add meals to her meal plan for future use. In this
+scenario though, Itzel does not have much time and only wanted to make a quick meal.
       </td>
     </tr>
     <tr>
