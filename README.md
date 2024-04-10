@@ -54,6 +54,7 @@ The project aims to streamline meal planning by solving the challenge of decidin
 **Executive Summary**
 
 * !!!In a bullet-list, provide a summary that highlights...!!!
+* 
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
 * !!!as an executive would understand.!!!
@@ -64,9 +65,8 @@ The project aims to streamline meal planning by solving the challenge of decidin
 
 **Executive Summary**
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+* Cognitive Walkthroughs
+* Wireframes
+* overall take away
 
 [Full phase III report](phaseIII/)
