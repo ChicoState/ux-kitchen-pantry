@@ -62,7 +62,7 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         <br><br>
         At the homepage, he would click on the pantry button to start adding all the ingredients he has available to cook with. He can add the name of the item, the amount, and the expiration date.
         <br><br>
-        <li>Will the user know what to do at this step?</li>
+        <ul>Will the user know what to do at this step?</ul>
         <br>
         Yes, it is mostly clear that Anthony should be adding his ingredients to figure out what he can make with what he has.
         <br><br>
