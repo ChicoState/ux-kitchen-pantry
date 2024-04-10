@@ -58,11 +58,11 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     <tr>
       <td>
         <h3>Cognitive Walkthrough of Anthony</h3>
-        Anthony is trying to cook more to save money but doesn’t really have much experience or know where to start. He has some ingredients in the house but is not sure what to use them in.
+        I am is trying to cook more to save money but doesn’t really have much experience or know where to start. He has some ingredients in the house but is not sure what to use them in.
         <br><br>
         At the homepage, he would click on the pantry button to start adding all the ingredients he has available to cook with. He can add the name of the item, the amount, and the expiration date.
         <br><br>
-        Will the user know what to do at this step?
+        <li>Will the user know what to do at this step?</li>
         <br>
         Yes, it is mostly clear that Anthony should be adding his ingredients to figure out what he can make with what he has.
         <br><br>
