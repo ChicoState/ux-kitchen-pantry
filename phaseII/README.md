@@ -36,16 +36,18 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         <h3>Cognitive Walkthrough of Itzel</h3>
         <b>First step:</b>
         <br>
-         - Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home
+          Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home
         <br>
         <b>Second step:</b>
         <br>
-          - She will need to add her ingredients into the pantry section
+           She will need to add her ingredients into the pantry section
         <br>
         <b>Third step:</b>
         <br>
-          - After adding her ingredients, recipes will pop up that utilize the ingredients she already has at home. Given her busy schedule, she does not have time to add many recipes to her meal plan. She looks through the recipes page to find a meal that is gluten free but also quick to make
+           After adding her ingredients, recipes will pop up that utilize the ingredients she already has at home. Given her busy schedule, she does not have time to add many recipes to her meal plan. She looks through the recipes page to find a meal that is gluten free but also quick to make
         <br><br>
+        <b>Results</b>
+        <br>
         At this point, the user will know what to do next. Either the user will add ingredients to her shopping list for future meals and also add meals to her meal plan for future use. In this scenario though, Itzel does not have much time and only wanted to make a quick meal.
       </td>
     </tr>
