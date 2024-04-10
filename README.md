@@ -69,8 +69,8 @@ The project aims to streamline meal planning by solving the challenge of decidin
      * Also shows what a recipe page might look like
    * Pantry: items in a users pantry</ul>
 
-
 * Overall Takeaways
+* 
      * The cognitive walkthrough provided a perspective on how different users may use the app and what to possibly fix
      * The wireframes gave us an image on what the app may look like, where to improve and where to add more details
 
