@@ -57,9 +57,26 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     </tr>
     <tr>
       <td>
-        <h3>Cognitive Walkthrough of Mike Johnson</h3>
-        Mike is a busy professional who wants to eat healthier and save time by meal prepping. He's looking for an app that can help him plan his meals for the week, generate shopping lists, and provide easy-to-follow recipes.<br>
-        When Mike opens the app, he navigates to the meal planning section. He selects the upcoming week and starts adding recipes to each day's meal. He appreciates the app's suggestion feature, which recommends recipes based on his dietary preferences and available ingredients. After finalizing his meal plan, Mike proceeds to the shopping list section where all the necessary ingredients are automatically added. He reviews the list, makes a few adjustments, and then heads to the grocery store. With the app's help, Mike successfully completes his shopping and is ready to tackle meal prep for the week ahead.
+        <h3>Cognitive Walkthrough of Anthony</h3>
+<p>I am trying to cook more to save money but don’t really have much experience or know where to start. I have some ingredients in the house but am not sure what to use them in.</p>
+        <br>
+<p>    At the homepage, I would click on the pantry button to start adding all the ingredients I have available to cook with. I can add the name of the item, the amount, and the expiration date.</p>
+        <br>
+<p>    Will the user know what to do at this step?</p>
+        
+Yes, it is mostly clear that I should be adding my ingredients to figure out what I can make with what I have.
+If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+Yes, the ingredients will show up as a list in my ‘pantry’.
+After this, I can move to the recipes tab to see recipes that I can make, and other ones that I would need additional ingredients for. I can expand the recipes to see more details and I can also search more specifically for recipes.
+Will the user know what to do at this step?
+Yes. After clicking on the recipes tab from the homepage, they are displayed in front of you with additional search options.
+If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+Yes, I would be able to see recipes, see how to cook them, and see the ingredients they require.
+Finally, I would move to the shopping list, where I would add all the ingredients, I don’t have for the recipes I want to make.
+Will the user know what to do at this step?
+Yes. I can make a list, add items, and mark them as purchased after I buy them. Additionally, the page shows the quantity I need, as well as the price and store I can buy them from.
+If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+Yes. The ingredients I need to purchase are laid out as a list that is easy to understand.
       </td>
     </tr>
   </tbody>
