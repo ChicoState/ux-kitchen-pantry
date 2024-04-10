@@ -95,7 +95,11 @@ As you can see, we had multiple types of feedback such as adding a Quick Meal se
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!Based on the methods employed and the feedback gathered through cognitive walkthroughs and informal user interactions, our team has gained valuable insights that will guide the UX design enhancements for our kitchen pantry application. These insights have uncovered specific challenges experienced by users and identified areas of opportunity for improvement.
+
+During the walkthroughs, difficulties such as the complexity of adding existing ingredients to the pantry and confusion with the navigation system were highlighted, indicating the need for clearer processes and more intuitive features. Furthermore, informal feedback emphasized the desire for quick meal suggestions and the ability to save recipes for future use.
+
+To address these findings effectively, our key recommendations include streamlining the process of adding existing ingredients to the pantry, redesigning the navigation system for improved clarity, implementing a quick meal suggestions feature, and incorporating a recipe saving functionality. By focusing on these recommendations, we aim to enhance the overall user experience and satisfaction with our kitchen pantry application.
 
 ## Caveats
 
