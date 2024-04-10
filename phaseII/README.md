@@ -27,13 +27,13 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     <tr>
       <td>
         <h3><u>Cognitive Walkthrough of Marcos Ortega</u></h3>
-        Marcos is a hard-working employee at a Warehouse who works 12-hour shifts, four days a week. He enjoys working out and being fit, he enjoys cooking healthy meals for his family. He wants to become better at cooking for his family.<br>
-        When Marco first goes onto the app his main goal is to learn how to be a better cook, so he wants to find a new recipe and use ingredients he already has to improve at cooking. At the home screen he first selects recipes to find a recipe to make. He then would click the search recipes button. He will then look at some recipes and click view details to see the ingredients. He wishes there was a way he could save the recipe, but looking at the ingredients is enough for now. He wants to add ingredients to the pantry page, but he can’t find it anywhere. He then goes to the shopping list page after making a paper list of the ingredients he already has. He clicks the add item and adds the details of each ingredient that he is missing on the shopping list page. He knows there is a meal planning page, but he can’t seem to navigate to it in any way. Frustrated, he goes to the store. He wishes he could have added the ingredients he already has and added the recipe to a meal plan. He goes to the store to get ingredients because at least he got a new recipe to try.
+        <ul>Marcos is a hard-working employee at a Warehouse who works 12-hour shifts, four days a week. He enjoys working out and being fit, he enjoys cooking healthy meals for his family. He wants to become better at cooking for his family.</ul><br>
+        <ul>When Marco first goes onto the app his main goal is to learn how to be a better cook, so he wants to find a new recipe and use ingredients he already has to improve at cooking. At the home screen he first selects recipes to find a recipe to make. He then would click the search recipes button. He will then look at some recipes and click view details to see the ingredients. He wishes there was a way he could save the recipe, but looking at the ingredients is enough for now. He wants to add ingredients to the pantry page, but he can’t find it anywhere. He then goes to the shopping list page after making a paper list of the ingredients he already has. He clicks the add item and adds the details of each ingredient that he is missing on the shopping list page. He knows there is a meal planning page, but he can’t seem to navigate to it in any way. Frustrated, he goes to the store. He wishes he could have added the ingredients he already has and added the recipe to a meal plan. He goes to the store to get ingredients because at least he got a new recipe to try.</ul>
       </td>
     </tr>
     <tr>
       <td>
-        <h3><u></u>Cognitive Walkthrough of Itzel</u></h3>
+        <h3><u>Cognitive Walkthrough of Itzel</u></h3>
         <b>First step:</b>
           <ul>Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home.</ul>
         <br>
