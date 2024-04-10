@@ -110,7 +110,7 @@ Login
   </tbody>
 </table>
 
-As you can see, we had multiple types of feedback such as adding a Quick Meal section and fixing a big issue with our navigation system. Since we didn’t add a direct link to the meal plan page, and save recipes. Now we are planning to update our navigation system for the application and conduct more experiments to improve, and make the application user-friendly.
+As you can see, we had multiple types of feedback such as adding a Quick Meal section and fixing a big issue with our navigation system. Since we didn’t add a direct link to the meal plan page, and save recipes. Now we are planning to update our navigation system for the application and conduct more experiments to improve, and make the application more user-friendly.
 
 
 
