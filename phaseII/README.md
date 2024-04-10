@@ -64,7 +64,7 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         <br><br>
         <ul>Will the user know what to do at this step?</ul>
         <br>
-        Yes, it is mostly clear that Anthony should be adding his ingredients to figure out what he can make with what he has.
+        <ul><ul>Yes, it is mostly clear that Anthony should be adding his ingredients to figure out what he can make with what he has.</ul></ul>
         <br><br>
         If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
         <br>
