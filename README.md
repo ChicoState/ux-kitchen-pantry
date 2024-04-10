@@ -54,7 +54,7 @@ The project aims to streamline meal planning by solving the challenge of decidin
 **Executive Summary**
 
 * Cognitive Walkthroughs
-  * Putting yourself in a persona to test the application for usability for 
+  * Putting yourself in a persona to test the application for usability
 * Wireframes
 * overall takeaway
 
