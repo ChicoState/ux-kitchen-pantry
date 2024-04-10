@@ -4,11 +4,10 @@
 
 Continuing our journey to refine Kitchen Pantry meal planning application's user experience.
 Developing detailed wireframes for intuitive navigation and interaction.
-Conducting user research to validate design decisions and gather insights.
-Iteratively testing and refining wireframes based on user feedback.
+Using cross-team communication to validate design decisions and gather insights.
+Testing and refining wireframes based on user feedback.
 Prioritizing user-centric design principles for enhanced usability.
 Collaborating closely with the development team to ensure alignment with project goals.
-Emphasizing creativity, attention to detail, and iterative improvement throughout.
 
 ## Methods
 
