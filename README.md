@@ -54,8 +54,9 @@ The project aims to streamline meal planning by solving the challenge of decidin
 **Executive Summary**
 
 * Cognitive Walkthroughs
+* 
 * Wireframes
-* overall take away
+* overall takeaway
 
 [Full phase II report](phaseII/)
 
