@@ -34,8 +34,8 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     <tr>
       <td>
         <h3>Cognitive Walkthrough of Itzel</h3>
-        Using the Itzel persona and scenario:
 <b>First step:</b>
+        <br>
 - Make a recipe given the ingredients she has at home. She doesn’t have much time to go
 out and buy ingredients so she has to work with what she has at home
 Second step:
