@@ -45,13 +45,6 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         When Mike opens the app, he navigates to the meal planning section. He selects the upcoming week and starts adding recipes to each day's meal. He appreciates the app's suggestion feature, which recommends recipes based on his dietary preferences and available ingredients. After finalizing his meal plan, Mike proceeds to the shopping list section where all the necessary ingredients are automatically added. He reviews the list, makes a few adjustments, and then heads to the grocery store. With the app's help, Mike successfully completes his shopping and is ready to tackle meal prep for the week ahead.
       </td>
     </tr>
-    <tr>
-      <td>
-        <h3>Cognitive Walkthrough of Emily Chang</h3>
-        Emily is a stay-at-home mom who enjoys cooking for her family but often struggles to come up with new meal ideas. She's searching for an app that can provide her with a variety of recipes tailored to her family's preferences and dietary restrictions.<br>
-        Upon opening the app, Emily is impressed by the personalized recipe recommendations on the homepage. She clicks on a recipe and reviews the ingredients and instructions. Emily notices a feature that allows her to adjust serving sizes, which she finds helpful for accommodating her family's needs. After saving the recipe to her favorites, Emily explores the app further and discovers a section for dietary preferences. She specifies her family's dietary restrictions, such as allergies and dislikes, to refine the recipe suggestions. Emily is delighted with the app's user-friendly interface and comprehensive recipe database, and she looks forward to trying out new dishes for her family.
-      </td>
-    </tr>
   </tbody>
 </table>
 
