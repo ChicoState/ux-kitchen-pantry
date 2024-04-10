@@ -95,7 +95,7 @@ As you can see, we had multiple types of feedback such as adding a Quick Meal se
 
 ## Conclusions
 
-Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!Based on the methods employed and the feedback gathered through cognitive walkthroughs and informal user interactions, our team has gained valuable insights that will guide the UX design enhancements for our kitchen pantry application. These insights have uncovered specific challenges experienced by users and identified areas of opportunity for improvement.
+Based on the methods employed and the feedback gathered through cognitive walkthroughs and informal user interactions, our team has gained valuable insights that will guide the UX design enhancements for our kitchen pantry application. These insights have uncovered specific challenges experienced by users and identified areas of opportunity for improvement.
 
 During the walkthroughs, difficulties such as the complexity of adding existing ingredients to the pantry and confusion with the navigation system were highlighted, indicating the need for clearer processes and more intuitive features. Furthermore, informal feedback emphasized the desire for quick meal suggestions and the ability to save recipes for future use.
 
@@ -103,4 +103,4 @@ To address these findings effectively, our key recommendations include streamlin
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The project is confronted with several caveats. Firstly, ongoing bugs and technical issues, such as the inability to add ingredients to the pantry or save recipes, stand as significant hurdles to user satisfaction and engagement. Secondly, the app's potential difficulty for new users to navigate due to challenges in adapting to new navigation systems or features. Thirdly, there exist limitations in testing methods, which may result in an incomplete understanding of user experiences and preferences. Finally, resource constraints, including limited time and budget, may restrict the extent to which improvements can be made. Additionally, integrating new features, such as a Quick Meal section or redesigned navigation system, may pose compatibility challenges with existing components.
