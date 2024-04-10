@@ -20,11 +20,6 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
   <thead>
     <tr>
       <th rowspan="1"> Products </th>
-      <th colspan="1"> Strengths </th>
-      <th colspan="1"> Weaknesses </th>
-      <th rowspan="1"> Quality Level (low - high) </th>
-      <th colspan="1"> Cost </th>
-      <th colspan="1"> Platform </th>
     </tr>
   </tbody>
 </table>
