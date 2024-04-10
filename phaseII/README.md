@@ -13,6 +13,22 @@ After our cross-team communications were done, We collected multiple types of da
 
 Our second finding was that users wanted us to add a “Quick Meal” section where the application would suggest quick and easy meals to prepare for busy users. Another finding that we were not aware of was the navigation system in place for the application. Some users were confused about how to navigate through the menus. To fix this we are going to redesign the navigation system. Besides this, the cross-team communication methods also help us gain some user experience.
 
+<div align="center">
+<h3> Kitchen Pantry Competitive Analysis </h3>
+</div>
+<table border="1">
+  <thead>
+    <tr>
+      <th rowspan="1"> Products </th>
+      <th colspan="1"> Strengths </th>
+      <th colspan="1"> Weaknesses </th>
+      <th rowspan="1"> Quality Level (low - high) </th>
+      <th colspan="1"> Cost </th>
+      <th colspan="1"> Platform </th>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Conclusions
 
