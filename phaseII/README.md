@@ -86,18 +86,25 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
     </tr>
     <tr>
       <td>
-        <h3><u>Cognitive Walkthrough of Itzel</u></h3>
-        <b>First step:</b>
-          <ul>Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home.</ul>
+        <h3><u>Cognitive Walkthrough of Mike Foodie</u></h3>
+        On a Saturday evening, Mike hosts a Culinary Movie Night for friends in his LA apartment. They gather to explore hidden culinary gems through a lesser-known documentary about global street food. Mike surprises them with bite-sized versions of the featured dishes, turning the movie night into a flavorful and memorable culinary experience.
         <br>
-        <b>Second step:</b>
-           <ul>She will need to add her ingredients into the pantry section.</ul>
+        <b>Goals:</b>
+            <ul><li>Introduce friends to unique culinary documentaries.</li></ul>
+            <ul><li>Share his passion for diverse global cuisines with friends.</li></ul>
+            <ul><li>Create a memorable and enjoyable movie night experience centered around food.</li></ul>
         <br>
-        <b>Third step:</b>
-           <ul>After adding her ingredients, recipes will pop up that utilize the ingredients she already has at home. Given her busy schedule, she does not have time to add many recipes to her meal plan. She looks through the recipes page to find a meal that is gluten free but also quick to make.</ul>
+Login
+           <ul>Mike Attempts to login to the app. Notices there is no place to do that.</ul>
         <br>
-        <b>Results</b>
-        <ul>At this point, the user will know what to do next. Either the user will add ingredients to her shopping list for future meals and also add meals to her meal plan for future use. In this scenario though, Itzel does not have much time and only wanted to make a quick meal.</ul>
+        <b>Go to pantry</b>
+        <ul>Mike attempts to edit an item but accidentally hits delete. Mike expects a confirmation screen to avoid this kind of mistake</ul>
+        <br>
+        <b>Edit item</b>
+        <ul>Mike attempts to go to the pantry. The App works as expected.</ul>
+        <br>
+        <b>Make the food from TV</b>
+        <ul>Mike attempts to enter the foods that he has seen on the documentary into the app. But is not sure how to do this.,</ul>
       </td>
     </tr>
   </tbody>
