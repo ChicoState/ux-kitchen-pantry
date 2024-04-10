@@ -36,23 +36,19 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         <h3>Cognitive Walkthrough of Itzel</h3>
         <b>First step:</b>
         <br>
-        <br>
-          Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home
+          <ul>Make a recipe given the ingredients she has at home. She doesn’t have much time to go out and buy ingredients so she has to work with what she has at home.</ul>
         <br>
         <b>Second step:</b>
         <br>
-        <br>
-           She will need to add her ingredients into the pantry section
+           <ul>She will need to add her ingredients into the pantry section.</ul>
         <br>
         <b>Third step:</b>
         <br>
-        <br>
-           After adding her ingredients, recipes will pop up that utilize the ingredients she already has at home. Given her busy schedule, she does not have time to add many recipes to her meal plan. She looks through the recipes page to find a meal that is gluten free but also quick to make
+           <ul>After adding her ingredients, recipes will pop up that utilize the ingredients she already has at home. Given her busy schedule, she does not have time to add many recipes to her meal plan. She looks through the recipes page to find a meal that is gluten free but also quick to make.</ul>
         <br><br>
         <b>Results</b>
         <br>
-        <br>
-        At this point, the user will know what to do next. Either the user will add ingredients to her shopping list for future meals and also add meals to her meal plan for future use. In this scenario though, Itzel does not have much time and only wanted to make a quick meal.
+        <ul>At this point, the user will know what to do next. Either the user will add ingredients to her shopping list for future meals and also add meals to her meal plan for future use. In this scenario though, Itzel does not have much time and only wanted to make a quick meal.</ul>
       </td>
     </tr>
     <tr>
@@ -66,29 +62,29 @@ Our second finding was that users wanted us to add a “Quick Meal” section wh
         <br>
         <ul><ul>Yes, it is mostly clear that Anthony should be adding his ingredients to figure out what he can make with what he has.</ul></ul>
         <br><br>
-        If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+        <ul>If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?</ul>
         <br>
-        Yes, the ingredients will show up as a list in his ‘pantry’.
+        <ul><ul>Yes, the ingredients will show up as a list in his ‘pantry’.</ul></ul>
         <br><br>
         After this, Anthony can move to the recipes tab to see recipes that he can make, and other ones that he would need additional ingredients for. He can expand the recipes to see more details and he can also search more specifically for recipes.
         <br><br>
-        Will the user know what to do at this step?
+        <ul>Will the user know what to do at this step?</ul>
         <br>
-        Yes. After clicking on the recipes tab from the homepage, they are displayed in front of Anthony with additional search options.
+        <ul><ul>Yes. After clicking on the recipes tab from the homepage, they are displayed in front of Anthony with additional search options.</ul></ul>
         <br><br>
-        If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+        <ul>If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?</ul>
         <br>
-        Yes, Anthony would be able to see recipes, see how to cook them, and see the ingredients they require.
+        <ul><ul>Yes, Anthony would be able to see recipes, see how to cook them, and see the ingredients they require.</ul></ul>
         <br><br>
         Finally, Anthony would move to the shopping list, where he would add all the ingredients he doesn’t have for the recipes he wants to make.
         <br><br>
-        Will the user know what to do at this step?
+        <ul>Will the user know what to do at this step?</ul>
         <br>
-        Yes. He can make a list, add items, and mark them as purchased after he buys them. Additionally, the page shows the quantity he needs, as well as the price and store he can buy them from.
+        <ul><ul>Yes. He can make a list, add items, and mark them as purchased after he buys them. Additionally, the page shows the quantity he needs, as well as the price and store he can buy them from.</ul></ul>
         <br><br>
-        If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+        <ul>If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?</ul>
         <br>
-        Yes. The ingredients Anthony needs to purchase are laid out as a list that is easy to understand.
+        <ul><ul>Yes. The ingredients Anthony needs to purchase are laid out as a list that is easy to understand.</ul></ul>
       </td>
     </tr>
   </tbody>
