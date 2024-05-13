@@ -2,7 +2,7 @@
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+In Phase III of our project, we transitioned from refining interactions and designing wireframes to conducting user testing with participants and finalizing the wireframes. Our focus remained on enhancing the user experience of the Kitchen Pantry meal planning app. We created a protocol and consent form for the participants in our usability tests. Additionally, we prioritized completing the wireframes to ensure intuitive navigation and interaction within the application.
 
 ## Methods
 
@@ -18,4 +18,4 @@
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+The user testing we conducted in Phase III offered valuable insights, but we faced some caveats. Due to resource constraints, we had only a few participants and a short testing period, which may have limited our ability to capture diverse user perspectives and thoroughly explore all usability issues. The participants are coming from usability backgrounds so the way the users navigated through the tests may not have been entirely as a person with no background would have navigated. 
