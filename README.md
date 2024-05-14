@@ -84,5 +84,17 @@ The project aims to streamline meal planning by solving the challenge of decidin
   * Tasks: Navigation, pantry management, ingredient input.
   * Data Collection: Observations, completion time, errors, feedback.
   * Analysis: Identify usability issues and areas for improvement.
+    
+* Draft Protocol
+  * Welcome participants, explain purpose, and encourage think-aloud.
+  * Tasks: Adding Ingredients, Finding a Recipe, Saving a Recipe, Navigating to Meal Plans, Quick Meal Suggestions, Adding Expiration Dates
+  * Debrief and thank participants and gather feedback on app usability and features.
+    
+* IRB Submission
+  * IRB Form: Application detailing study objectives, methods, and ethical considerations for IRB approval.
+  * Informed Consent Form: Document outlining study details and participant rights, obtained before participation.
+  * CITI Human Subjects Training Certificates: Proof of completing ethical research training.
+  * Finalized Protocol Script: Detailed outline of study procedures.
+  * Prototype: Visual representation of the application being tested.
 
 [Full phase III report](phaseIII/)
