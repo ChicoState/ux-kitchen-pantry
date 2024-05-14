@@ -16,7 +16,9 @@ In Phase III of our project, we transitioned from refining interactions and desi
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+Conclusion:
+
+In conclusion, our comprehensive approach to usability testing, protocol development, and IRB submission sets a solid foundation for conducting a ethically sound research study. By focusing on evaluating navigation, task effectiveness, and user satisfaction in the usability test plan, we aim to gather valuable insights from cooking enthusiasts while ensuring adherence to ethical guidelines. The draft protocol outlines clear procedures for participant engagement and feedback collection, facilitating a structured and efficient study process. The IRB ensures the protection of participant rights and welfare. All of this together we are able to conduct a successful usability study and contribute meaningful findings to the field of research.
 
 ## Caveats
 
