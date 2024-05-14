@@ -11,14 +11,13 @@ We conducted a 4-hour usability testing session with students to evaluate our ap
 After the tasks, the students filled out a post-test questionnaire and participated in a short interview to provide feedback on the application's usability. We examine this data to identify common issues and patterns in their behavior. This analysis helped us pinpoint key usability problems. The goal was to understand how real users interact with our app and make it more user-friendly. Overall we had 7 student testers which led us to find great results.
 
 
-## 
+## Findings
 
 ## Findings
 
 During our usability testing, we found that most students were unfamiliar with pantry applications and had little knowledge about dieting, the management of food, and what to make for breakfast, lunch, and dinner. Some students struggled with our first task due to a misunderstanding of the instructions. However, once past this, all student testers were able to complete complete the tasks. This suggests that clearer instructions greatly improve user understanding and performance.
 
-As testing continued, students became more used to navigating our application. They all passed the third and fourth tasks, indicating that we have a great design of our application and it is user-friendly. Most of the students passed tasks five to seven, but some of the students encountered minor problems, highlighting areas for
- improvement. By the eighth task, all students passed, showing increased comfort with the application. These results show that we provided clear instructions, user-friendly design, and educational elements for novice users to enhance the overall experience.
+As testing continued, students became more used to navigating our application. They all passed the third and fourth tasks, indicating that we have a great design of our application and it is user-friendly. Most of the students passed tasks five to seven, but some of the students encountered minor problems, highlighting areas for improvement. By the eighth task, all students passed, showing increased comfort with the application. These results show that we provided clear instructions, user-friendly design, and educational elements for novice users to enhance the overall experience.
 
 ### Resuts
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
