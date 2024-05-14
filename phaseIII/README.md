@@ -40,7 +40,7 @@ As testing continued, students became more used to navigating our application. T
   You're interested in trying a new recipe, but you want to search cuisine type. Please show us how you would apply these filters and your thoughts on the filter options provided.
 
 - **Task 8: Creating a Shopping List:**
-  You've planned your meals for the week and need to create a shopping list for the ingredients you're missing. Please walk us through how you would do this, including any features or functionality you find helpful or lacking.
+  You've planned your meals for the week and need to create a shopping list for the ingredients you're missing. Please walk us through how you would do this, including any features or functionality you find helpful or lacking. 
 
 
 
