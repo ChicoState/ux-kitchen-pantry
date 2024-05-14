@@ -17,6 +17,41 @@ During our usability testing, we found that most students were unfamiliar with p
 
 As testing continued, students became more used to navigating our application. They all passed the third and fourth tasks, indicating that we have a great design of our application and it is user-friendly. Most of the students passed tasks five to seven, but some of the students encountered minor problems, highlighting areas for improvement. By the eighth task, all students passed, showing increased comfort with the application. These results show that we provided clear instructions, user-friendly design, and educational elements for novice users to enhance the overall experience. Below are the task question.
 
+### Tasking
+<ul>
+  <li>
+    <strong>Adding Ingredients:</strong>
+    <p>Imagine you want to add a new ingredient to your pantry. Please walk us through how you would do this. Be sure to let us know if you encounter any difficulties.</p>
+  </li>
+  <li>
+    <strong>Finding a Recipe:</strong>
+    <p>You're in the mood to cook something new tonight. Please find a recipe using the ingredients already in your pantry. Let us know if you find the process straightforward or if there are any challenges.</p>
+  </li>
+  <li>
+    <strong>Saving a Recipe:</strong>
+    <p>After finding a recipe you like, please save it for future reference. We're interested in how intuitive you find the saving feature and if you encounter any issues.</p>
+  </li>
+  <li>
+    <strong>Navigating to Meal Plans:</strong>
+    <p>Now, let's say you want to plan your meals for the week. Please navigate to the meal planning section of the app. Share your thoughts on the navigation process and any improvements you suggest.</p>
+  </li>
+  <li>
+    <strong>Quick Meal Suggestions:</strong>
+    <p>Let's explore the quick meal suggestion feature further. Try to find a quick meal suggestion for dinner tonight, but this time, consider customizing the search based on dietary restrictions, such as gluten-free pasta.</p>
+  </li>
+  <li>
+    <strong>Adding Expiration Dates:</strong>
+    <p>Imagine you've just bought groceries and want to add them to your pantry with expiration dates. Please demonstrate how you would do this and share any challenges you encounter.</p>
+  </li>
+  <li>
+    <strong>Filtering Recipes:</strong>
+    <p>You're interested in trying a new recipe, but you want to search cuisine type. Please show us how you would apply these filters and your thoughts on the filter options provided.</p>
+  </li>
+  <li>
+    <strong>Creating a Shopping List:</strong>
+    <p>You've planned your meals for the week and need to create a shopping list for the ingredients you're missing. Please walk us through how you would do this, including any features or functionality you find helpful or lacking.</p>
+  </li>
+</ul>
 
 ### Resuts
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link type="text/css" rel="stylesheet" href="resources/sheet.css" >
