@@ -6,7 +6,10 @@ In Phase III of our project, we transitioned from refining interactions and desi
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. !!!
+We conducted a 4-hour usability testing session with students to evaluate our application. First, the students answered questions about their initial expectations and familiarity with similar applications. Then, they completed specific tasks within the app while we observed and took notes on any difficulties they faced. We asked them to think aloud during the process to understand their thoughts and experiences better since we are using a think-aloud protocol.
+
+After the tasks, the students filled out a post-test questionnaire and participated in a short interview to provide feedback on the application's usability. We examine this data to identify common issues and patterns in their behavior. This analysis helped us pinpoint key usability problems. The goal was to understand how real users interact with our app and make it more user-friendly. Overall we had 7 student testers which led us to find great results.
+
 
 ## Findings
 
