@@ -78,9 +78,11 @@ The project aims to streamline meal planning by solving the challenge of decidin
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-* !!!In a bullet-list, provide a summary that highlights...!!!
-!!!What you've done during this phase...!!!
-!!!and what the significance of it is...!!!
-!!!as an executive would understand.!!!
+* Usability Test Plan
+  * Evaluate navigation, task effectiveness, and user satisfaction & gather insights on user expectations and preferences.
+  * Inclusion: Cooking enthusiasts interested in new recipes, forgetful about inventory & Exclusion: Non-cookers, under 18, lack of internet or smartphone access.
+  * Tasks: Navigation, pantry management, ingredient input.
+  * Data Collection: Observations, completion time, errors, feedback.
+  * Analysis: Identify usability issues and areas for improvement.
 
 [Full phase III report](phaseIII/)
