@@ -11,9 +11,9 @@ We conducted a 4-hour usability testing session with students to evaluate our ap
 After the tasks, the students filled out a post-test questionnaire and participated in a short interview to provide feedback on the application's usability. We examine this data to identify common issues and patterns in their behavior. This analysis helped us pinpoint key usability problems. The goal was to understand how real users interact with our app and make it more user-friendly. Overall we had 7 student testers which led us to find great results.
 
 
-## Findings
-
 ## 
+
+## Findings
 
 During our usability testing, we found that most students were unfamiliar with pantry applications and had little knowledge about dieting, the management of food, and what to make for breakfast, lunch, and dinner. Some students struggled with our first task due to a misunderstanding of the instructions. However, once past this, all student testers were able to complete complete the tasks. This suggests that clearer instructions greatly improve user understanding and performance.
 
