@@ -96,5 +96,10 @@ The project aims to streamline meal planning by solving the challenge of decidin
   * CITI Human Subjects Training Certificates: Proof of completing ethical research training.
   * Finalized Protocol Script: Detailed outline of study procedures.
   * Prototype: Visual representation of the application being tested.
+ 
+ * Overall Key Takeaways:
+ * Usability Test Plan: Evaluate navigation, task effectiveness, and user satisfaction. Target cooking enthusiasts, focusing on preferences and expectations. Tasks cover navigation, pantry management, and feedback collection.
+ * Draft Protocol: Welcome participants, explain purpose, and conduct tasks. Tasks include adding ingredients, finding/saving recipes, and navigating meal plans. Debrief to gather feedback on usability and features.
+ * IRB Submission: Submit IRB application, informed consent form, CITI training certificates, protocol script, and prototype. Ensure compliance with ethical standards and regulatory requirements.
 
 [Full phase III report](phaseIII/)
